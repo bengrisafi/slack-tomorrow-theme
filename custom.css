@@ -433,7 +433,7 @@ body:not(.loading) #team_menu.active {
   background: #004C54 !important;
   color: #ffffff !important;
 }
-.p-channel_sidebar__channel:visited,
+.p-channel_sidebar__channel:visited .p-channel_sidebar__link:visited
 .p-channel_sidebar__channel--selected .p-channel_sidebar__badge,
 .p-channel_sidebar__channel--selected .p-channel_sidebar__banner--mentions,
 .p-channel_sidebar__channel--selected:hover .p-channel_sidebar__badge,
