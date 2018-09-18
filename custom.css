@@ -295,7 +295,7 @@ body:not(.loading) #team_menu.active {
 .p-message_pane__foreword__description .c-mrkdwn__subteam--link:hover,
 .p-message_pane__foreword__description .c-mrkdwn__subteam--link.active,
 .p-message_pane__foreword__description .c-mrkdwn__subteam--link:focus {
-  background: #b5bd68 !important;
+  background: #878d52 !important;
   color: #1d1f21 !important;
 }
 
@@ -357,7 +357,7 @@ body:not(.loading) #team_menu.active {
 
 #msg_input {
   background: #1d1f21;
-  color: #c5c8c6;
+  color: #fcfcfc;
 }
 
 .texty_legacy .ql-placeholder {
@@ -423,7 +423,6 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__link:visited,
 .p-channel_sidebar__channel:hover,
 .p-channel_sidebar__link:hover {
-  background: #4b4b4d;
   color: #c5c8c6 !important;
 }
 
@@ -443,7 +442,7 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__link--selected .p-channel_sidebar__banner--mentions,
 .p-channel_sidebar__link--selected:hover .p-channel_sidebar__badge,
 .p-channel_sidebar__link--selected:hover .p-channel_sidebar__banner--mentions {
-  background: #ffffff !important;
+  background: #080808 !important;
   color: #004C54 !important;
 }
 
@@ -480,7 +479,7 @@ body:not(.loading) #team_menu.active {
 .c-scrollbar__bar,
 .p-channel_sidebar .c-custom_scrollbar__thumb_vertical,
 .p-channel_sidebar .c-scrollbar__bar {
-  background: #046A38 !important;
+  background: rgba(206, 206, 212, 0.75) !important;
 }
 
 #footer,
