@@ -2,7 +2,7 @@
 // ------
 $background: #1d1f21;
 $current-line: #282a2e;
-$selection: #373b41;
+$selection: #ffffff;
 $foreground: #c5c8c6;
 $comment: #969896;
 $red: #519189;
@@ -483,7 +483,7 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__section_heading_label--clickable:hover,
 .p-channel_sidebar__section_heading_label--unreads,
 .p-channel_sidebar__quickswitcher:hover {
-  color: $comment !important;
+  color: $white !important;
 }
 
 // Unread messages
