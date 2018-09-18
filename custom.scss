@@ -15,7 +15,7 @@ $kgreen: #004C54;
 $white: #ffffff;
 $black: #000000;
 $mine_shaft: #3C3C3C;
-$shark: #252526;
+$shark: #080808;
 
 // General
 // -------
@@ -313,7 +313,7 @@ body:not(.loading) #team_menu.active {
     &.active,
     &:focus {
       background: $green !important;
-      color: $background !important;
+      color: $white !important;
     }
   }
 }
@@ -357,7 +357,7 @@ body:not(.loading) #team_menu.active {
 .c-message__reply_bar_description,
 .c-message__reply_bar:hover .c-message__reply_bar_arrow,
 .c-message__reply_bar--focus .c-message__reply_bar_arrow {
-  color: $foreground;
+  color: $white;
 }
 
 // Scroll top
@@ -432,7 +432,7 @@ body:not(.loading) #team_menu.active {
 // --------
 .p-channel_sidebar {
   background: $shark !important;
-  color: $foreground !important;
+  color: $white !important;
 }
 
 .p-channel_sidebar__channel--selected .p-channel_sidebar__name {
@@ -447,7 +447,7 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__link:visited,
 .p-channel_sidebar__channel:hover,
 .p-channel_sidebar__link:hover {
-  color: $foreground !important;
+  color: $white !important;
 }
 
 .p-channel_sidebar__channel--selected,
@@ -473,7 +473,7 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__channel:hover,
 .p-channel_sidebar__link:hover,
 .p-channel_sidebar__close_container:hover {
-  background: $selection !important;
+  background: $kgreen !important;
 }
 
 // Sidebar - User names colors
