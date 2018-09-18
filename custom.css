@@ -423,6 +423,7 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__link:visited,
 .p-channel_sidebar__channel:hover,
 .p-channel_sidebar__link:hover {
+  background: #4b4b4d;
   color: #c5c8c6 !important;
 }
 
@@ -479,7 +480,7 @@ body:not(.loading) #team_menu.active {
 .c-scrollbar__bar,
 .p-channel_sidebar .c-custom_scrollbar__thumb_vertical,
 .p-channel_sidebar .c-scrollbar__bar {
-  background: rgba(206, 206, 212, 0.75) !important;
+  background: #046A38 !important;
 }
 
 #footer,
