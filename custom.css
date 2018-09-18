@@ -196,7 +196,7 @@ body:not(.loading) #team_menu.active {
 }
 
 .client_container .c-message--light .c-message__sender .c-message__sender_link:hover {
-  color: #825b8e;
+  color: #519189;
 }
 
 .c-message:hover .c-message_attachment__border {
