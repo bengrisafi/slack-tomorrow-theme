@@ -619,7 +619,7 @@ ts-thread .thread_header .thread_channel_name a {
 .dark_theme ts-message .message_content .message_sender:hover,
 .light_theme ts-message .message_content .message_sender:hover,
 ts-thread .thread_header .thread_channel_name a:hover {
-  color: #825b8e !important;
+  color: #004C54 !important;
 }
 
 #file_reply_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container,
