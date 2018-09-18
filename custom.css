@@ -407,7 +407,7 @@ body:not(.loading) #team_menu.active {
 }
 
 .p-channel_sidebar {
-  background: #252526 !important;
+  background: #111111 !important;
   color: #c5c8c6 !important;
 }
 
@@ -448,7 +448,7 @@ body:not(.loading) #team_menu.active {
 
 .p-channel_sidebar__badge,
 .p-channel_sidebar__banner--mentions {
-  background: #cc6666 !important;
+  background: #004C54 !important;
   color: #ffffff !important;
 }
 
