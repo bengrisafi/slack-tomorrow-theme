@@ -41,7 +41,7 @@
 }
 
 .client_container code {
-  color: #cc6666;
+  color: #519189;
   background-color: #282a2e;
   border: 1px solid #373b41;
 }
@@ -251,12 +251,12 @@ body:not(.loading) #team_menu.active {
 }
 
 .c-message_list__unread_divider__separator {
-  border-color: #cc6666;
+  border-color: #519189;
 }
 
 .c-message_list__unread_divider__label {
   color: #1d1f21;
-  background: #cc6666;
+  background: #519189;
 }
 
 .c-member__display-name--large,
