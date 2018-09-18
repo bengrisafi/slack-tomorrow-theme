@@ -11,7 +11,7 @@ $yellow: #f0c674;
 $green: #b5bd68;
 $aqua: #8abeb7;
 $blue: #81a2be;
-$purple: #004C54
+$kgreen: #004C54;
 $white: #ffffff;
 $black: #000000;
 $mine_shaft: #3C3C3C;
@@ -220,9 +220,9 @@ body:not(.loading) #team_menu.active {
 }
 
 .client_container .c-message--light .c-message__sender .c-message__sender_link {
-  color: $purple;
+  color: $kgreen;
   &:hover {
-    color: darken($purple, 20%);
+    color: darken($kgreen, 20%);
   }
 }
 
@@ -454,12 +454,12 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__channel--selected:hover,
 .p-channel_sidebar__link--selected,
 .p-channel_sidebar__link--selected:hover {
-  background: $purple !important;
+  background: $kgreen !important;
   color: $white !important;
   .p-channel_sidebar__badge,
   .p-channel_sidebar__banner--mentions {
     background: $white !important;
-    color: $purple !important;
+    color: $kgreen !important;
   }
 }
 
@@ -550,7 +550,7 @@ body:not(.loading) #team_menu.active {
     color: $green;
   }
   .cm-keyword {
-    color: $purple;
+    color: $kgreen;
   }
   .cm-atom {
     color: $aqua;
@@ -637,9 +637,9 @@ ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.n
 .dark_theme ts-message .message_content .message_sender,
 .light_theme ts-message .message_content .message_sender,
 ts-thread .thread_header .thread_channel_name a {
-    color: $purple !important;
+    color: $kgreen !important;
     &:hover {
-        color: darken($purple, 20%) !important;
+        color: darken($kgreen, 20%) !important;
     }
 }
 
